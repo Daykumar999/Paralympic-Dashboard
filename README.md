@@ -68,8 +68,7 @@ Dashboard UX Layout for Storytelling
 Self-driven Analysis & Insight Communication
 
 📌 Screenshots
-(Optional: Add .png or .jpg dashboard images here)
-Example:
+
 ![Paralympic Dashboard Overview](https://github.com/Daykumar999/Paralympic-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 ![Paralympic Dashboard Overview](https://github.com/Daykumar999/Paralympic-Dashboard/blob/main/Snapshot%20of%20Report.png)
 
