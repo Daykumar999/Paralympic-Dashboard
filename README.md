@@ -7,7 +7,7 @@ This interactive dashboard provides deep insights into the performance of countr
 The purpose of this project is to demonstrate expertise in data modeling, transformation, and visual storytelling using Power BI. It highlights my ability to convert raw data into actionable insights—ideal for decision-making, performance monitoring, and presentation in analytics interviews.
 
 📁 Dataset Source
-Kaggle - Paralympic Games Dataset (Exact URL if available)
+Kaggle - Paralympic Games Dataset 
 
 Cleaned and transformed data using Power Query and calculated fields
 
